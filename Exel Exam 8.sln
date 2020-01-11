@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exel Exam 8", "Exel Exam 8\Exel Exam 8.csproj", "{B9209BEC-778D-4618-B89D-B35E66425393}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9209BEC-778D-4618-B89D-B35E66425393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9209BEC-778D-4618-B89D-B35E66425393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9209BEC-778D-4618-B89D-B35E66425393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9209BEC-778D-4618-B89D-B35E66425393}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79AB09FB-E8BB-4E36-B487-92EEAA3A2B8C}
+	EndGlobalSection
+EndGlobal
